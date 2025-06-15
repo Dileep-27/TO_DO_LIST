@@ -12,7 +12,7 @@ body, html {
 
 /* Background Animation */
 .main-body {
-  background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+  background: linear-gradient(135deg, #4da4f0 0%, #00f2fe 100%);
   min-height: 100vh;
   display: flex;
   justify-content: center;
@@ -26,7 +26,7 @@ body, html {
     background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
   }
   100% {
-    background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);
+    background: linear-gradient(135deg, #206537 0%, #38f9d7 100%);
   }
 }
 
@@ -34,7 +34,7 @@ body, html {
 .todo_maindiv {
   width: 100%;
   max-width: 400px;
-  padding: 25px 20px;
+  padding: 26px 20px;
   border-radius: 20px;
   background: rgba(255, 255, 255, 0.25);
   backdrop-filter: blur(20px);
